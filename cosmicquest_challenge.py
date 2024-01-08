@@ -61,7 +61,7 @@ def multiple_choice_game():
         question_number += 1
 
     if incorrect_answers == 3:
-        print("Sorry, you failed the gmae. Better luck next time!")
+        print("Sorry, you failed the game. Better luck next time!")
     else:
         print(f"Congratulations! You answered all questions correctly. Your final score is {score}/{len(questions)}.")
 
