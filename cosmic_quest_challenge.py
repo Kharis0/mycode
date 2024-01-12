@@ -3,6 +3,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
+import json
 
 class CosmicQuestGame(tk.Tk):
     def __init__(self):
@@ -11,14 +12,8 @@ class CosmicQuestGame(tk.Tk):
         self.title("Cosmic Quest Challenge")
         self.geometry("600x400")
 
-        self.questions = [
-            {
-                "question": "In which galaxy is our solar system located?",
-                "options": ["A. Andromeda", "B. Milky Way", "C. Triangulum", "D. Sombrero"],
-                "correct_answer": "B"
-            },
-            # ... (other questions)
-        ]
+        # Load questions from the file cosmic_quest.txt
+        self.questions = self.load_questions("cosmic_quest.txt")
 
         self.score = 0
         self.incorrect_answers = 0
@@ -74,7 +69,7 @@ class CosmicQuestGame(tk.Tk):
         self.next_question()
 
     def show_result(self):
-        if self.incorrect_answers == 3:
+        if self.incorrect_answers == 6:
             messagebox.showinfo("Game Over", "Sorry, you failed the game. Better luck next time!")
         else:
             messagebox.showinfo("Congratulations!", f"You answered all questions correctly. Your final score is {self.score}/{len(self.questions)}.")

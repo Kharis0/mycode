@@ -1,0 +1,303 @@
+[
+  {
+    "question": "Which interstellar cloud of gas and dust is considered a stellar nursery, where new stars are born?",
+    "options": [
+      "a) Eagle Nebula",
+      "b) Orion Nebula",
+      "c) Crab Nebula",
+      "d) Helix Nebula"
+    ],
+    "correct_answer": "b) Orion Nebula"
+  },
+  {
+    "question": "What is the name of the spacecraft that successfully landed on the surface of Mars and sent back images and data in 2021?",
+    "options": [
+      "a) Viking 1",
+      "b) Curiosity",
+      "c) Perseverance",
+      "d) Spirit"
+    ],
+    "correct_answer": "c) Perseverance"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet' due to its rusty appearance caused by iron oxide on its surface?",
+    "options": [
+      "a) Venus",
+      "b) Mars",
+      "c) Jupiter",
+      "d) Saturn"
+    ],
+    "correct_answer": "b) Mars"
+  },
+  {
+    "question": "What is the name of the mission that provided the first close-up images of Pluto in 2015?",
+    "options": [
+      "a) Voyager",
+      "b) New Horizons",
+      "c) Cassini",
+      "d) Hubble"
+    ],
+    "correct_answer": "b) New Horizons"
+  },
+  {
+    "question": "In astronomy, what does the acronym 'SETI' stand for?",
+    "options": [
+      "a) Search for Extraterrestrial Intelligence",
+      "b) Solar Energy and Terrestrial Investigation",
+      "c) Stellar Exploration and Technological Innovation",
+      "d) Space Exploration and Terrestrial Imaging"
+    ],
+    "correct_answer": "a) Search for Extraterrestrial Intelligence"
+  },
+  {
+    "question": "What is the name of the galaxy that includes our solar system?",
+    "options": [
+      "a) Andromeda",
+      "b) Milky Way",
+      "c) Triangulum",
+      "d) Sombrero"
+    ],
+    "correct_answer": "b) Milky Way"
+  },
+  {
+    "question": "Which moon of Saturn is known for its prominent equatorial ridge, giving it a unique appearance?",
+    "options": [
+      "a) Titan",
+      "b) Enceladus",
+      "c) Iapetus",
+      "d) Mimas"
+    ],
+    "correct_answer": "c) Iapetus"
+  },
+  {
+    "question": "What is the largest type of celestial body in the asteroid belt between Mars and Jupiter?",
+    "options": [
+      "a) Meteoroid",
+      "b) Comet",
+      "c) Dwarf Planet",
+      "d) Asteroid"
+    ],
+    "correct_answer": "c) Dwarf Planet"
+  },
+  {
+    "question": "Which space telescope was launched in 1990 and has provided stunning images of distant galaxies and nebulae?",
+    "options": [
+      "a) Hubble Space Telescope",
+      "b) Spitzer Space Telescope",
+      "c) Chandra X-ray Observatory",
+      "d) Kepler Space Telescope"
+    ],
+    "correct_answer": "a) Hubble Space Telescope"
+  },
+  {
+    "question": "What is the name of the phenomenon where a massive star collapses under its own gravity, resulting in a point of infinite density?",
+    "options": [
+      "a) Black Hole",
+      "b) Neutron Star",
+      "c) Supernova",
+      "d) White Dwarf"
+    ],
+    "correct_answer": "a) Black Hole"
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "options": [
+      "a) Proxima Centauri",
+      "b) Alpha Centauri A",
+      "c) Betelgeuse",
+      "d) Sirius"
+    ],
+    "correct_answer": "a) Proxima Centauri"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star' and is often visible shortly before sunrise or after sunset?",
+    "options": [
+      "a) Venus",
+      "b) Mercury",
+      "c) Mars",
+      "d) Jupiter"
+    ],
+    "correct_answer": "a) Venus"
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into Earth's orbit?",
+    "options": [
+      "a) Sputnik 1",
+      "b) Explorer 1",
+      "c) Vanguard 1",
+      "d) Hubble"
+    ],
+    "correct_answer": "a) Sputnik 1"
+  },
+  {
+    "question": "Which constellation is known as the 'Hunter' and includes the bright stars Betelgeuse and Rigel?",
+    "options": [
+      "a) Ursa Major",
+      "b) Orion",
+      "c) Gemini",
+      "d) Leo"
+    ],
+    "correct_answer": "b) Orion"
+  },
+  {
+    "question": "What is the name of the largest planet in our solar system?",
+    "options": [
+      "a) Mars",
+      "b) Jupiter",
+      "c) Saturn",
+      "d) Neptune"
+    ],
+    "correct_answer": "b) Jupiter"
+  },
+  {
+    "question": "What is the name of the first human to orbit Earth?",
+    "options": [
+      "a) Yuri Gagarin",
+      "b) Alan Shepard",
+      "c) John Glenn",
+      "d) Neil Armstrong"
+    ],
+    "correct_answer": "a) Yuri Gagarin"
+  },
+  {
+    "question": "Which dwarf planet was formerly considered the ninth planet in our solar system?",
+    "options": [
+      "a) Eris",
+      "b) Haumea",
+      "c) Pluto",
+      "d) Makemake"
+    ],
+    "correct_answer": "c) Pluto"
+  },
+  {
+    "question": "What is the name of the galaxy that Andromeda is expected to collide with in the distant future?",
+    "options": [
+      "a) Milky Way",
+      "b) Triangulum",
+      "c) Sombrero",
+      "d) Pinwheel"
+    ],
+    "correct_answer": "a) Milky Way"
+  },
+  {
+    "question": "Which moon of Jupiter is known for its intense geysers of water vapor erupting from its surface?",
+    "options": [
+      "a) Europa",
+      "b) Ganymede",
+      "c) Callisto",
+      "d) Io"
+    ],
+    "correct_answer": "a) Europa"
+  },
+  {
+    "question": "What is the phenomenon where a comet's bright, glowing coma and tails are visible from Earth?",
+    "options": [
+      "a) Solar Eclipse",
+      "b) Meteor Shower",
+      "c) Comet Shower",
+      "d) Great Comet"
+    ],
+    "correct_answer": "d) Great Comet"
+  },
+  {
+    "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+    "options": [
+      "a) Centrifugal Force",
+      "b) Magnetic Force",
+      "c) Gravitational Force",
+      "d) Electrostatic Force"
+    ],
+    "correct_answer": "c) Gravitational Force"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": [
+      "a) Venus",
+      "b) Mars",
+      "c) Jupiter",
+      "d) Saturn"
+    ],
+    "correct_answer": "b) Mars"
+  },
+  {
+    "question": "What is the name of the largest moon of Neptune?",
+    "options": [
+      "a) Triton",
+      "b) Nereid",
+      "c) Proteus",
+      "d) Larissa"
+    ],
+    "correct_answer": "a) Triton"
+  },
+  {
+    "question": "In our solar system, which planet is known as the 'Gas Giant'?",
+    "options": [
+      "a) Earth",
+      "b) Jupiter",
+      "c) Mars",
+      "d) Venus"
+    ],
+    "correct_answer": "b) Jupiter"
+  },
+  {
+    "question": "What is the name of the brightest star in the night sky?",
+    "options": [
+      "a) Alpha Centauri",
+      "b) Sirius",
+      "c) Betelgeuse",
+      "d) Procyon"
+    ],
+    "correct_answer": "b) Sirius"
+  },
+  {
+    "question": "What is the name of the largest volcano in our solar system, located on Mars?",
+    "options": [
+      "a) Olympus Mons",
+      "b) Mauna Kea",
+      "c) Mount Everest",
+      "d) Krakatoa"
+    ],
+    "correct_answer": "a) Olympus Mons"
+  },
+  {
+    "question": "Which space agency launched the Hubble Space Telescope into orbit?",
+    "options": [
+      "a) NASA",
+      "b) ESA",
+      "c) Roscosmos",
+      "d) CNSA"
+    ],
+    "correct_answer": "a) NASA"
+  },
+  {
+    "question": "What is the term for the phenomenon where the Moon partially or completely covers the Sun?",
+    "options": [
+      "a) Lunar Eclipse",
+      "b) Solar Eclipse",
+      "c) Celestial Eclipse",
+      "d) Total Eclipse"
+    ],
+    "correct_answer": "b) Solar Eclipse"
+  },
+  {
+    "question": "Which planet is often referred to as the 'Morning Star' when visible before sunrise?",
+    "options": [
+      "a) Venus",
+      "b) Mars",
+      "c) Jupiter",
+      "d) Mercury"
+    ],
+    "correct_answer": "a) Venus"
+  },
+  {
+    "question": "What is the name of the spacecraft that carried the first humans to the Moon in 1969?",
+    "options": [
+      "a) Apollo 11",
+      "b) Gemini 7",
+      "c) Mercury 6",
+      "d) Soyuz 1"
+    ],
+    "correct_answer": "a) Apollo 11"
+  }
+]
+
